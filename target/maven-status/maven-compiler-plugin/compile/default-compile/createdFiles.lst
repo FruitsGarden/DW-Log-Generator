@@ -1,0 +1,14 @@
+com\bigdata\appclient\AppMain.class
+com\bigdata\bean\AppPraise.class
+com\bigdata\bean\AppNotification.class
+com\bigdata\bean\AppActive_foreground.class
+com\bigdata\bean\AppBase.class
+com\bigdata\bean\AppComment.class
+com\bigdata\bean\AppNewsDetail.class
+com\bigdata\bean\AppDisplay.class
+com\bigdata\bean\AppFavorites.class
+com\bigdata\bean\AppStart.class
+com\bigdata\bean\AppLoading.class
+com\bigdata\bean\AppErrorLog.class
+com\bigdata\bean\AppActive_background.class
+com\bigdata\bean\AppAd.class
